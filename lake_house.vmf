@@ -20,6 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
+	"mapversion" "27"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
