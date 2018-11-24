@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8056"
-	"mapversion" "28"
+	"mapversion" "27"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "28"
+	"mapversion" "27"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -1401,7 +1401,7 @@ world
 		{
 			"id" "1095"
 			"plane" "(7485 5104 836) (7485 4224 836) (7168 4224 497)"
-			"material" "REALWORLDTEXTURES2/ROOF/WOOD_SHINGLES_02"
+			"material" "REALWORLDTEXTURES2/REALWORLDTEXTURES2/ROOF/WOOD_SHINGLES_01"
 			"uaxis" "[0 -1 0 50] 0.25"
 			"vaxis" "[-0.683008 0 -0.730409 0] 0.25"
 			"rotation" "-0"
@@ -1488,9 +1488,9 @@ world
 		{
 			"id" "1118"
 			"plane" "(7808 4224 496) (7496 4224 848) (7496 4624 848)"
-			"material" "REALWORLDTEXTURES2/ROOF/WOOD_SHINGLES_02"
+			"material" "REALWORLDTEXTURES2/REALWORLDTEXTURES2/ROOF/WOOD_SHINGLES_01"
 			"uaxis" "[0 -1 0 50] 0.25"
-			"vaxis" "[-0.663131 0 0.748508 0] 0.25"
+			"vaxis" "[-0.663129 0 0.748506 0] 0.25"
 			"rotation" "-90"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -1499,9 +1499,9 @@ world
 		{
 			"id" "1117"
 			"plane" "(7485 4624 836) (7496 4624 848) (7496 4224 848)"
-			"material" "REALWORLDTEXTURES2/ROOF/WOOD_SHINGLES_02"
-			"uaxis" "[0 1 0 50] 0.25"
-			"vaxis" "[0.713662 0 0.70049 0] 0.25"
+			"material" "REALWORLDTEXTURES2/REALWORLDTEXTURES2/ROOF/WOOD_SHINGLES_01"
+			"uaxis" "[0 1 0 50] 0.3"
+			"vaxis" "[0.713662 0 0.70049 0] 0.13"
 			"rotation" "-0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -1564,9 +1564,9 @@ world
 		{
 			"id" "1172"
 			"plane" "(8128 5104 496) (8128 4624 496) (7496 4624 848)"
-			"material" "REALWORLDTEXTURES2/ROOF/WOOD_SHINGLES_02"
+			"material" "REALWORLDTEXTURES2/REALWORLDTEXTURES2/ROOF/WOOD_SHINGLES_01"
 			"uaxis" "[0 -1 0 50] 0.25"
-			"vaxis" "[-0.663131 0 0.748508 0] 0.25"
+			"vaxis" "[-0.663129 0 0.748506 0] 0.25"
 			"rotation" "-90"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -1575,9 +1575,9 @@ world
 		{
 			"id" "1171"
 			"plane" "(7496 5104 848) (7496 4624 848) (7485 4624 836)"
-			"material" "REALWORLDTEXTURES2/ROOF/WOOD_SHINGLES_02"
-			"uaxis" "[0 1 0 50] 0.25"
-			"vaxis" "[0.713662 0 0.70049 0] 0.25"
+			"material" "REALWORLDTEXTURES2/REALWORLDTEXTURES2/ROOF/WOOD_SHINGLES_01"
+			"uaxis" "[0 1 0 50] 0.3"
+			"vaxis" "[0.713662 0 0.70049 0] 0.13"
 			"rotation" "-0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -1651,9 +1651,9 @@ world
 		{
 			"id" "1182"
 			"plane" "(8128 4608 496) (7496 4608 848) (7496 4624 848)"
-			"material" "REALWORLDTEXTURES2/ROOF/WOOD_SHINGLES_02"
-			"uaxis" "[0 1 0 50] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
+			"material" "REALWORLDTEXTURES2/REALWORLDTEXTURES2/ROOF/WOOD_SHINGLES_01"
+			"uaxis" "[0 1 0 50] 0.3"
+			"vaxis" "[0 0 -1 0] 0.13"
 			"rotation" "-0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -1738,9 +1738,9 @@ world
 		{
 			"id" "1193"
 			"plane" "(8127.99 5104 496) (7496.11 5104 848) (7496.11 5120 848)"
-			"material" "REALWORLDTEXTURES2/ROOF/WOOD_SHINGLES_02"
-			"uaxis" "[0 1 0 50] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
+			"material" "REALWORLDTEXTURES2/REALWORLDTEXTURES2/ROOF/WOOD_SHINGLES_01"
+			"uaxis" "[0 1 0 50] 0.3"
+			"vaxis" "[0 0 -1 0] 0.13"
 			"rotation" "-0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -1749,10 +1749,10 @@ world
 		{
 			"id" "1192"
 			"plane" "(7168 5120 496.938) (7496.11 5120 848) (7496.11 5104 848)"
-			"material" "REALWORLDTEXTURES2/ROOF/WOOD_SHINGLES_02"
-			"uaxis" "[0 1 0 50] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "-0"
+			"material" "REALWORLDTEXTURES2/REALWORLDTEXTURES2/ROOF/WOOD_SHINGLES_01"
+			"uaxis" "[0 0 -1 50] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "-90"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
