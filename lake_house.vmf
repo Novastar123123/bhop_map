@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8056"
-	"mapversion" "27"
+	"mapversion" "29"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "27"
+	"mapversion" "29"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -1401,7 +1401,7 @@ world
 		{
 			"id" "1095"
 			"plane" "(7485 5104 836) (7485 4224 836) (7168 4224 497)"
-			"material" "REALWORLDTEXTURES2/REALWORLDTEXTURES2/ROOF/WOOD_SHINGLES_01"
+			"material" "REALWORLDTEXTURES2/ROOF/WOOD_SHINGLES_02"
 			"uaxis" "[0 -1 0 50] 0.25"
 			"vaxis" "[-0.683008 0 -0.730409 0] 0.25"
 			"rotation" "-0"
@@ -1488,9 +1488,9 @@ world
 		{
 			"id" "1118"
 			"plane" "(7808 4224 496) (7496 4224 848) (7496 4624 848)"
-			"material" "REALWORLDTEXTURES2/REALWORLDTEXTURES2/ROOF/WOOD_SHINGLES_01"
+			"material" "REALWORLDTEXTURES2/ROOF/WOOD_SHINGLES_02"
 			"uaxis" "[0 -1 0 50] 0.25"
-			"vaxis" "[-0.663129 0 0.748506 0] 0.25"
+			"vaxis" "[-0.663131 0 0.748508 0] 0.25"
 			"rotation" "-90"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -1499,9 +1499,9 @@ world
 		{
 			"id" "1117"
 			"plane" "(7485 4624 836) (7496 4624 848) (7496 4224 848)"
-			"material" "REALWORLDTEXTURES2/REALWORLDTEXTURES2/ROOF/WOOD_SHINGLES_01"
-			"uaxis" "[0 1 0 50] 0.3"
-			"vaxis" "[0.713662 0 0.70049 0] 0.13"
+			"material" "REALWORLDTEXTURES2/ROOF/WOOD_SHINGLES_02"
+			"uaxis" "[0 1 0 50] 0.25"
+			"vaxis" "[0.713662 0 0.70049 0] 0.25"
 			"rotation" "-0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -1564,9 +1564,9 @@ world
 		{
 			"id" "1172"
 			"plane" "(8128 5104 496) (8128 4624 496) (7496 4624 848)"
-			"material" "REALWORLDTEXTURES2/REALWORLDTEXTURES2/ROOF/WOOD_SHINGLES_01"
+			"material" "REALWORLDTEXTURES2/ROOF/WOOD_SHINGLES_02"
 			"uaxis" "[0 -1 0 50] 0.25"
-			"vaxis" "[-0.663129 0 0.748506 0] 0.25"
+			"vaxis" "[-0.663131 0 0.748508 0] 0.25"
 			"rotation" "-90"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -1575,9 +1575,9 @@ world
 		{
 			"id" "1171"
 			"plane" "(7496 5104 848) (7496 4624 848) (7485 4624 836)"
-			"material" "REALWORLDTEXTURES2/REALWORLDTEXTURES2/ROOF/WOOD_SHINGLES_01"
-			"uaxis" "[0 1 0 50] 0.3"
-			"vaxis" "[0.713662 0 0.70049 0] 0.13"
+			"material" "REALWORLDTEXTURES2/ROOF/WOOD_SHINGLES_02"
+			"uaxis" "[0 1 0 50] 0.25"
+			"vaxis" "[0.713662 0 0.70049 0] 0.25"
 			"rotation" "-0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -1651,9 +1651,9 @@ world
 		{
 			"id" "1182"
 			"plane" "(8128 4608 496) (7496 4608 848) (7496 4624 848)"
-			"material" "REALWORLDTEXTURES2/REALWORLDTEXTURES2/ROOF/WOOD_SHINGLES_01"
-			"uaxis" "[0 1 0 50] 0.3"
-			"vaxis" "[0 0 -1 0] 0.13"
+			"material" "REALWORLDTEXTURES2/ROOF/WOOD_SHINGLES_02"
+			"uaxis" "[0 1 0 50] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "-0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -1738,9 +1738,9 @@ world
 		{
 			"id" "1193"
 			"plane" "(8127.99 5104 496) (7496.11 5104 848) (7496.11 5120 848)"
-			"material" "REALWORLDTEXTURES2/REALWORLDTEXTURES2/ROOF/WOOD_SHINGLES_01"
-			"uaxis" "[0 1 0 50] 0.3"
-			"vaxis" "[0 0 -1 0] 0.13"
+			"material" "REALWORLDTEXTURES2/ROOF/WOOD_SHINGLES_02"
+			"uaxis" "[0 1 0 50] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "-0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -1749,10 +1749,10 @@ world
 		{
 			"id" "1192"
 			"plane" "(7168 5120 496.938) (7496.11 5120 848) (7496.11 5104 848)"
-			"material" "REALWORLDTEXTURES2/REALWORLDTEXTURES2/ROOF/WOOD_SHINGLES_01"
-			"uaxis" "[0 0 -1 50] 0.25"
-			"vaxis" "[0 -1 0 0] 0.25"
-			"rotation" "-90"
+			"material" "REALWORLDTEXTURES2/ROOF/WOOD_SHINGLES_02"
+			"uaxis" "[0 1 0 50] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "-0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
@@ -1792,7 +1792,7 @@ world
 		{
 			"id" "1327"
 			"plane" "(7460 4240 472) (7460 4240 496) (7184 4240 496)"
-			"material" "REALWORLDTEXTURES/REALWORLDTEXTURES/WALLS/WALL_1_03"
+			"material" "REALWORLDTEXTURES2/WOOD/WOOD_17"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -1868,7 +1868,7 @@ world
 		{
 			"id" "1333"
 			"plane" "(7184 4240 368) (7460 4240 368) (7460 4240 472)"
-			"material" "REALWORLDTEXTURES/REALWORLDTEXTURES/WALLS/WALL_1_03"
+			"material" "REALWORLDTEXTURES2/WOOD/WOOD_17"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -2009,7 +2009,7 @@ world
 		{
 			"id" "1353"
 			"plane" "(7460 4240 368) (7516 4240 368) (7516 4240 472)"
-			"material" "REALWORLDTEXTURES/REALWORLDTEXTURES/WALLS/WALL_1_03"
+			"material" "REALWORLDTEXTURES2/WOOD/WOOD_17"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -2096,7 +2096,7 @@ world
 		{
 			"id" "1364"
 			"plane" "(7792 4240 472) (7792 4240 496) (7516 4240 496)"
-			"material" "REALWORLDTEXTURES/REALWORLDTEXTURES/WALLS/WALL_1_03"
+			"material" "REALWORLDTEXTURES2/WOOD/WOOD_17"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -2172,7 +2172,7 @@ world
 		{
 			"id" "1370"
 			"plane" "(7516 4240 368) (7792 4240 368) (7792 4240 472)"
-			"material" "REALWORLDTEXTURES/REALWORLDTEXTURES/WALLS/WALL_1_03"
+			"material" "REALWORLDTEXTURES2/WOOD/WOOD_17"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -2519,7 +2519,7 @@ world
 		{
 			"id" "1437"
 			"plane" "(7796 4624 432) (7796 5104 432) (7936 5104 432)"
-			"material" "REALWORLDTEXTURES/REALWORLDTEXTURES/FLOOR/WOOD_FLOOR_1"
+			"material" "REALWORLDTEXTURES2/WOOD/WOOD_122"
 			"uaxis" "[1 0 0 0] 0.2"
 			"vaxis" "[0 -1 0 0] 0.3"
 			"rotation" "0"
@@ -2552,7 +2552,7 @@ world
 		{
 			"id" "1434"
 			"plane" "(7936 5104 416) (7936 4624 416) (7936 4624 432)"
-			"material" "REALWORLDTEXTURES/REALWORLDTEXTURES/WALLS/WALL_1_03"
+			"material" "REALWORLDTEXTURES2/WOOD/WOOD_17"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -2595,7 +2595,7 @@ world
 		{
 			"id" "1431"
 			"plane" "(7188 4240 432) (7188 5104 432) (7796 5104 432)"
-			"material" "REALWORLDTEXTURES/REALWORLDTEXTURES/FLOOR/WOOD_FLOOR_1"
+			"material" "REALWORLDTEXTURES2/WOOD/WOOD_122"
 			"uaxis" "[1 0 0 0] 0.2"
 			"vaxis" "[0 -1 0 0] 0.3"
 			"rotation" "0"
@@ -4376,7 +4376,7 @@ world
 		{
 			"id" "1973"
 			"plane" "(8112 5104 352) (7936 5104 352) (7936 5104 368)"
-			"material" "REALWORLDTEXTURES/REALWORLDTEXTURES/WALLS/WALL_1_03"
+			"material" "REALWORLDTEXTURES2/WOOD/WOOD_17"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -4517,7 +4517,7 @@ world
 		{
 			"id" "1986"
 			"plane" "(7936 4624 352) (8112 4624 352) (8112 4624 368)"
-			"material" "REALWORLDTEXTURES/REALWORLDTEXTURES/WALLS/WALL_1_03"
+			"material" "REALWORLDTEXTURES2/WOOD/WOOD_17"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -4843,7 +4843,7 @@ world
 		{
 			"id" "2014"
 			"plane" "(7936 5104 352) (7936 4624 352) (7936 4624 368)"
-			"material" "REALWORLDTEXTURES/REALWORLDTEXTURES/WALLS/WALL_1_03"
+			"material" "REALWORLDTEXTURES2/WOOD/WOOD_17"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -4908,7 +4908,7 @@ world
 		{
 			"id" "2021"
 			"plane" "(8112 4624 352) (8112 5104 352) (8112 5104 368)"
-			"material" "REALWORLDTEXTURES/REALWORLDTEXTURES/WALLS/WALL_1_03"
+			"material" "REALWORLDTEXTURES2/WOOD/WOOD_17"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -5125,7 +5125,7 @@ world
 		{
 			"id" "2058"
 			"plane" "(7936 5104 368) (7936 4624 368) (7936 4624 416)"
-			"material" "REALWORLDTEXTURES/REALWORLDTEXTURES/WALLS/WALL_1_03"
+			"material" "REALWORLDTEXTURES2/WOOD/WOOD_17"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -6884,7 +6884,7 @@ world
 		{
 			"id" "2405"
 			"plane" "(7584 4176 240) (7584 4176 368) (7568 4224 368)"
-			"material" "REALWORLDTEXTURES/REALWORLDTEXTURES/WALLS/WALL_1_03"
+			"material" "REALWORLDTEXTURES2/WOOD/WOOD_17"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -7036,7 +7036,7 @@ world
 		{
 			"id" "2417"
 			"plane" "(7616 4144 240) (7616 4144 368) (7584 4176 368)"
-			"material" "REALWORLDTEXTURES/REALWORLDTEXTURES/WALLS/WALL_1_03"
+			"material" "REALWORLDTEXTURES2/WOOD/WOOD_17"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -7188,7 +7188,7 @@ world
 		{
 			"id" "2429"
 			"plane" "(7736 4224 240) (7736 4224 368) (7720 4176 368)"
-			"material" "REALWORLDTEXTURES/REALWORLDTEXTURES/WALLS/WALL_1_03"
+			"material" "REALWORLDTEXTURES2/WOOD/WOOD_17"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 1 0] 0.25"
 			"rotation" "0"
@@ -7340,7 +7340,7 @@ world
 		{
 			"id" "2441"
 			"plane" "(7720 4176 240) (7720 4176 368) (7688 4144 368)"
-			"material" "REALWORLDTEXTURES/REALWORLDTEXTURES/WALLS/WALL_1_03"
+			"material" "REALWORLDTEXTURES2/WOOD/WOOD_17"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 1 0] 0.25"
 			"rotation" "0"
@@ -7481,7 +7481,7 @@ world
 		{
 			"id" "2454"
 			"plane" "(7688 4144 240) (7688 4144 368) (7616 4144 368)"
-			"material" "REALWORLDTEXTURES/REALWORLDTEXTURES/WALLS/WALL_1_03"
+			"material" "REALWORLDTEXTURES2/WOOD/WOOD_17"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -7568,7 +7568,7 @@ world
 		{
 			"id" "2459"
 			"plane" "(7568 4224 64) (7584 4176 64) (7584 4176 160)"
-			"material" "REALWORLDTEXTURES/REALWORLDTEXTURES/WALLS/WALL_1_03"
+			"material" "REALWORLDTEXTURES2/WOOD/WOOD_17"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -7644,7 +7644,7 @@ world
 		{
 			"id" "2465"
 			"plane" "(7584 4176 64) (7616 4144 64) (7616 4144 160)"
-			"material" "REALWORLDTEXTURES/REALWORLDTEXTURES/WALLS/WALL_1_03"
+			"material" "REALWORLDTEXTURES2/WOOD/WOOD_17"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -7720,7 +7720,7 @@ world
 		{
 			"id" "2471"
 			"plane" "(7720 4176 64) (7736 4224 64) (7736 4224 160)"
-			"material" "REALWORLDTEXTURES/REALWORLDTEXTURES/WALLS/WALL_1_03"
+			"material" "REALWORLDTEXTURES2/WOOD/WOOD_17"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 1 0] 0.25"
 			"rotation" "0"
@@ -7796,7 +7796,7 @@ world
 		{
 			"id" "2477"
 			"plane" "(7688 4144 64) (7720 4176 64) (7720 4176 160)"
-			"material" "REALWORLDTEXTURES/REALWORLDTEXTURES/WALLS/WALL_1_03"
+			"material" "REALWORLDTEXTURES2/WOOD/WOOD_17"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 1 0] 0.25"
 			"rotation" "0"
@@ -7861,7 +7861,7 @@ world
 		{
 			"id" "2484"
 			"plane" "(7616 4144 64) (7688 4144 64) (7688 4144 160)"
-			"material" "REALWORLDTEXTURES/REALWORLDTEXTURES/WALLS/WALL_1_03"
+			"material" "REALWORLDTEXTURES2/WOOD/WOOD_17"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -8284,7 +8284,7 @@ world
 		{
 			"id" "100"
 			"plane" "(7168 5120 128) (7808 5120 128) (7808 4224 128)"
-			"material" "REALWORLDTEXTURES/REALWORLDTEXTURES/FLOOR/WOOD_FLOOR_1"
+			"material" "REALWORLDTEXTURES2/WOOD/WOOD_122"
 			"uaxis" "[1 0 0 0] 0.2"
 			"vaxis" "[0 -1 0 0] 0.3"
 			"rotation" "0"
@@ -8360,7 +8360,7 @@ world
 		{
 			"id" "117"
 			"plane" "(7808 5120 128) (8128 5120 128) (8128 4608 128)"
-			"material" "REALWORLDTEXTURES/REALWORLDTEXTURES/FLOOR/WOOD_FLOOR_1"
+			"material" "REALWORLDTEXTURES2/WOOD/WOOD_122"
 			"uaxis" "[1 0 0 0] 0.2"
 			"vaxis" "[0 -1 0 0] 0.3"
 			"rotation" "0"
@@ -8773,7 +8773,7 @@ world
 		{
 			"id" "174"
 			"plane" "(7184 5104 128) (7184 4240 128) (7184 4240 352)"
-			"material" "REALWORLDTEXTURES/REALWORLDTEXTURES/WALLS/WALL_1_03"
+			"material" "REALWORLDTEXTURES2/WOOD/WOOD_17"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -8871,7 +8871,7 @@ world
 		{
 			"id" "196"
 			"plane" "(7792 4624 128) (7792 4624 352) (7792 4240 352)"
-			"material" "REALWORLDTEXTURES/REALWORLDTEXTURES/WALLS/WALL_1_03"
+			"material" "REALWORLDTEXTURES2/WOOD/WOOD_17"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -8947,7 +8947,7 @@ world
 		{
 			"id" "208"
 			"plane" "(8112 4624 128) (8112 4624 352) (7792 4624 352)"
-			"material" "REALWORLDTEXTURES/REALWORLDTEXTURES/WALLS/WALL_1_03"
+			"material" "REALWORLDTEXTURES2/WOOD/WOOD_17"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -9012,7 +9012,7 @@ world
 		{
 			"id" "221"
 			"plane" "(8112 4624 352) (8112 4624 128) (8112 5104 128)"
-			"material" "REALWORLDTEXTURES/REALWORLDTEXTURES/WALLS/WALL_1_03"
+			"material" "REALWORLDTEXTURES2/WOOD/WOOD_17"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -9099,7 +9099,7 @@ world
 		{
 			"id" "232"
 			"plane" "(7184 5104 128) (7184 5104 352) (8112 5104 352)"
-			"material" "REALWORLDTEXTURES/REALWORLDTEXTURES/WALLS/WALL_1_03"
+			"material" "REALWORLDTEXTURES2/WOOD/WOOD_17"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -9229,7 +9229,7 @@ world
 		{
 			"id" "391"
 			"plane" "(7184 4240 368) (7184 4240 496) (7184 5104 496)"
-			"material" "REALWORLDTEXTURES/REALWORLDTEXTURES/WALLS/WALL_1_03"
+			"material" "REALWORLDTEXTURES2/WOOD/WOOD_17"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -9327,7 +9327,7 @@ world
 		{
 			"id" "401"
 			"plane" "(7792 4624 368) (7792 4624 496) (7792 4240 496)"
-			"material" "REALWORLDTEXTURES/REALWORLDTEXTURES/WALLS/WALL_1_03"
+			"material" "REALWORLDTEXTURES2/WOOD/WOOD_17"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -9403,7 +9403,7 @@ world
 		{
 			"id" "407"
 			"plane" "(8112 4624 368) (8112 4624 496) (7792 4624 496)"
-			"material" "REALWORLDTEXTURES/REALWORLDTEXTURES/WALLS/WALL_1_03"
+			"material" "REALWORLDTEXTURES2/WOOD/WOOD_17"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -9468,7 +9468,7 @@ world
 		{
 			"id" "414"
 			"plane" "(8112 4624 496) (8112 4624 368) (8112 5104 368)"
-			"material" "REALWORLDTEXTURES/REALWORLDTEXTURES/WALLS/WALL_1_03"
+			"material" "REALWORLDTEXTURES2/WOOD/WOOD_17"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -9555,7 +9555,7 @@ world
 		{
 			"id" "419"
 			"plane" "(7184 5104 368) (7184 5104 496) (8112 5104 496)"
-			"material" "REALWORLDTEXTURES/REALWORLDTEXTURES/WALLS/WALL_1_03"
+			"material" "REALWORLDTEXTURES2/WOOD/WOOD_17"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -9609,7 +9609,7 @@ world
 		{
 			"id" "439"
 			"plane" "(7182.22 4240 128) (7424 4240 128) (7424 4240 352)"
-			"material" "REALWORLDTEXTURES/REALWORLDTEXTURES/WALLS/WALL_1_03"
+			"material" "REALWORLDTEXTURES2/WOOD/WOOD_17"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -9674,7 +9674,7 @@ world
 		{
 			"id" "446"
 			"plane" "(7568 4224 128) (7568 4224 352) (7568 4240 352)"
-			"material" "REALWORLDTEXTURES/REALWORLDTEXTURES/WALLS/WALL_1_03"
+			"material" "REALWORLDTEXTURES2/WOOD/WOOD_17"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -9685,7 +9685,7 @@ world
 		{
 			"id" "445"
 			"plane" "(7568 4240 128) (7568 4240 352) (7480 4240 352)"
-			"material" "REALWORLDTEXTURES/REALWORLDTEXTURES/WALLS/WALL_1_03"
+			"material" "REALWORLDTEXTURES2/WOOD/WOOD_17"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -9739,7 +9739,7 @@ world
 		{
 			"id" "459"
 			"plane" "(7480 4240 240) (7480 4240 352) (7424 4240 352)"
-			"material" "REALWORLDTEXTURES/REALWORLDTEXTURES/WALLS/WALL_1_03"
+			"material" "REALWORLDTEXTURES2/WOOD/WOOD_17"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -9837,7 +9837,7 @@ world
 		{
 			"id" "469"
 			"plane" "(7792 4240 352) (7736 4240 352) (7736 4240 128)"
-			"material" "REALWORLDTEXTURES/REALWORLDTEXTURES/WALLS/WALL_1_03"
+			"material" "REALWORLDTEXTURES2/WOOD/WOOD_17"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -9859,7 +9859,7 @@ world
 		{
 			"id" "467"
 			"plane" "(7736 4240 352) (7736 4224 352) (7736 4224 128)"
-			"material" "REALWORLDTEXTURES/REALWORLDTEXTURES/WALLS/WALL_1_03"
+			"material" "REALWORLDTEXTURES2/WOOD/WOOD_17"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -9880,7 +9880,7 @@ world
 		{
 			"id" "513"
 			"plane" "(7616 4144 128) (7584 4176 128) (7568 4224 128)"
-			"material" "REALWORLDTEXTURES/REALWORLDTEXTURES/FLOOR/WOOD_FLOOR_1"
+			"material" "REALWORLDTEXTURES2/WOOD/WOOD_122"
 			"uaxis" "[1 0 0 0] 0.2"
 			"vaxis" "[0 -1 0 0] 0.3"
 			"rotation" "0"
