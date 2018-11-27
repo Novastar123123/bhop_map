@@ -394,3 +394,280 @@ Total triangle count: 6523
 Writing c:\steamlibrary\steamapps\common\counter-strike global offensive\sdk_content\maps\bhop_map\lake_house.bsp
 MSG_FILEWRITE - Filesystem was asked to write to 'c:\steamlibrary\steamapps\common\counter-strike global offensive\sdk_content\maps\bhop_map\lake_house.bsp', but we don't own that location. Allowing.
 33 seconds elapsed
+
+
+
+materialPath: C:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\SteamLibrary\SteamApps\common\Counter-Strike Global Offensive\sdk_content\maps\bhop_map\lake_house.vmf
+Map revision 124
+Material not found!: REALWORLDTEXTURES2/REALWORLDTEXTURES2/ROOF/WOOD_SHINGLES_01
+Patching WVT material: maps/lake_house/nature/blend_grass_grass_01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 106 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\SteamLibrary\SteamApps\common\Counter-Strike Global Offensive\sdk_content\maps\bhop_map\lake_house.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (247029 bytes)
+Error! prop_static using model "models/props_interiors/tv.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/tv.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 1189 texinfos to 558
+Reduced 32 texdatas to 29 (838 bytes to 698)
+Writing C:\SteamLibrary\SteamApps\common\Counter-Strike Global Offensive\sdk_content\maps\bhop_map\lake_house.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\steamlibrary\steamapps\common\counter-strike global offensive\sdk_content\maps\bhop_map\lake_house.bsp', but we don't own that location. Allowing.
+3 seconds elapsed
+
+
+
+8 threads
+reading c:\steamlibrary\steamapps\common\counter-strike global offensive\sdk_content\maps\bhop_map\lake_house.bsp
+reading c:\steamlibrary\steamapps\common\counter-strike global offensive\sdk_content\maps\bhop_map\lake_house.prt
+ 361 portalclusters
+ 961 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 36 visible clusters (0.00%)
+Total clusters visible: 64055
+Average clusters visible: 177
+Building PAS...
+Average clusters audible: 239
+visdatasize:27842  compressed from 34656
+writing c:\steamlibrary\steamapps\common\counter-strike global offensive\sdk_content\maps\bhop_map\lake_house.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\steamlibrary\steamapps\common\counter-strike global offensive\sdk_content\maps\bhop_map\lake_house.bsp', but we don't own that location. Allowing.
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\steamlibrary\steamapps\common\counter-strike global offensive\sdk_content\maps\bhop_map\lake_house.bsp
+3226 faces
+3915655 square feet [563854336.00 square inches]
+142 Displacements
+715910 Square Feet [103091088.00 Square Inches]
+3226 patches before subdivision
+119414 patches after subdivision
+6 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4859854, max 763
+transfer lists:  37.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(11006, 9372, 7562)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(759, 554, 382)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(79, 51, 29)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(8, 5, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0859 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  20/1024          960/49152    ( 2.0%) 
+brushes                655/8192         7860/98304    ( 8.0%) 
+brushsides            6351/65536       50808/524288   ( 9.7%) 
+planes                6382/65536      127640/1310720  ( 9.7%) 
+vertexes              3880/65536       46560/786432   ( 5.9%) 
+nodes                 1067/65536       34144/2097152  ( 1.6%) 
+texinfos               558/12288       40176/884736   ( 4.5%) 
+texdata                 29/2048          928/65536    ( 1.4%) 
+dispinfos              142/0           24992/0        ( 0.0%) 
+disp_verts           11502/0          230040/0        ( 0.0%) 
+disp_tris            18176/0           36352/0        ( 0.0%) 
+disp_multiblend        162/0           12960/0        ( 0.0%) 
+disp_lmsamples     1633824/0         1633824/0        ( 0.0%) 
+faces                 3226/65536      180656/3670016  ( 4.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1664/65536       93184/3670016  ( 2.5%) 
+facebrushes            169/0             338/0        ( 0.0%) 
+facebrushlists        3226/0           12904/0        ( 0.0%) 
+leaves                1088/65536       34816/2097152  ( 1.7%) 
+leaffaces             3629/65536        7258/131072   ( 5.5%) 
+leafbrushes           1526/65536        3052/131072   ( 2.3%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            20301/512000      81204/2048000  ( 4.0%) 
+edges                11566/256000      46264/1024000  ( 4.5%) 
+LDR worldlights          6/8192          600/819200   ( 0.1%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            106/32768        1060/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1998/65536        3996/131072   ( 3.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     8221060/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       27842/16777216 ( 0.2%) 
+entdata               [variable]        6882/393216   ( 1.8%) 
+LDR ambient table     1088/65536        4352/262144   ( 1.7%) 
+HDR ambient table     1088/65536        4352/262144   ( 1.7%) 
+LDR leaf ambient      4093/65536      114604/1835008  ( 6.2%) 
+HDR leaf ambient      1088/65536       30464/1835008  ( 1.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12536    ( 0.0%) 
+pakfile               [variable]      149721/0        ( 0.0%) 
+physics               [variable]      247029/4194304  ( 5.9%) 
+physics terrain       [variable]       44236/1048576  ( 4.2%) 
+
+Level flags = 7c
+
+Total triangle count: 7225
+Writing c:\steamlibrary\steamapps\common\counter-strike global offensive\sdk_content\maps\bhop_map\lake_house.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\steamlibrary\steamapps\common\counter-strike global offensive\sdk_content\maps\bhop_map\lake_house.bsp', but we don't own that location. Allowing.
+38 seconds elapsed
+
+
+
+materialPath: C:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\steamlibrary\steamapps\common\counter-strike global offensive\sdk_content\maps\bhop_map\lake_house.vmf
+Map revision 124
+Material not found!: REALWORLDTEXTURES2/REALWORLDTEXTURES2/ROOF/WOOD_SHINGLES_01
+Patching WVT material: maps/lake_house/nature/blend_grass_grass_01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 106 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\steamlibrary\steamapps\common\counter-strike global offensive\sdk_content\maps\bhop_map\lake_house.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (247029 bytes)
+Error! prop_static using model "models/props_interiors/tv.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/tv.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 1189 texinfos to 558
+Reduced 32 texdatas to 29 (838 bytes to 698)
+Writing c:\steamlibrary\steamapps\common\counter-strike global offensive\sdk_content\maps\bhop_map\lake_house.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\steamlibrary\steamapps\common\counter-strike global offensive\sdk_content\maps\bhop_map\lake_house.bsp', but we don't own that location. Allowing.
+3 seconds elapsed
+
+
+
+6 threads
+reading c:\steamlibrary\steamapps\common\counter-strike global offensive\sdk_content\maps\bhop_map\lake_house.bsp
+reading c:\steamlibrary\steamapps\common\counter-strike global offensive\sdk_content\maps\bhop_map\lake_house.prt
+ 361 portalclusters
+ 961 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 36 visible clusters (0.00%)
+Total clusters visible: 64055
+Average clusters visible: 177
+Building PAS...
+Average clusters audible: 239
+visdatasize:27842  compressed from 34656
+writing c:\steamlibrary\steamapps\common\counter-strike global offensive\sdk_content\maps\bhop_map\lake_house.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\steamlibrary\steamapps\common\counter-strike global offensive\sdk_content\maps\bhop_map\lake_house.bsp', but we don't own that location. Allowing.
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\steamlibrary\steamapps\common\counter-strike global offensive\sdk_content\maps\bhop_map\lake_house.bsp
+Loaded alpha texture materials\models\props_foliage\Mall_trees_branches02.vtf
+3226 faces
+3915655 square feet [563854336.00 square inches]
+142 Displacements
+715910 Square Feet [103091088.00 Square Inches]
+3226 patches before subdivision
+119414 patches after subdivision
+6 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4678115, max 746
+transfer lists:  35.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(9403, 8068, 6450)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(649, 492, 339)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(68, 47, 26)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(7, 5, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0860 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  20/1024          960/49152    ( 2.0%) 
+brushes                655/8192         7860/98304    ( 8.0%) 
+brushsides            6351/65536       50808/524288   ( 9.7%) 
+planes                6382/65536      127640/1310720  ( 9.7%) 
+vertexes              3880/65536       46560/786432   ( 5.9%) 
+nodes                 1067/65536       34144/2097152  ( 1.6%) 
+texinfos               558/12288       40176/884736   ( 4.5%) 
+texdata                 29/2048          928/65536    ( 1.4%) 
+dispinfos              142/0           24992/0        ( 0.0%) 
+disp_verts           11502/0          230040/0        ( 0.0%) 
+disp_tris            18176/0           36352/0        ( 0.0%) 
+disp_multiblend        162/0           12960/0        ( 0.0%) 
+disp_lmsamples     1633824/0         1633824/0        ( 0.0%) 
+faces                 3226/65536      180656/3670016  ( 4.9%) 
+hdr faces             3226/65536      180656/3670016  ( 4.9%) 
+origfaces             1664/65536       93184/3670016  ( 2.5%) 
+facebrushes            169/0             338/0        ( 0.0%) 
+facebrushlists        3226/0           12904/0        ( 0.0%) 
+leaves                1088/65536       34816/2097152  ( 1.7%) 
+leaffaces             3629/65536        7258/131072   ( 5.5%) 
+leafbrushes           1526/65536        3052/131072   ( 2.3%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            20301/512000      81204/2048000  ( 4.0%) 
+edges                11566/256000      46264/1024000  ( 4.5%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          6/8192          600/819200   ( 0.1%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            106/32768        1060/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1998/65536        3996/131072   ( 3.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     8221060/0        ( 0.0%) 
+visdata               [variable]       27842/16777216 ( 0.2%) 
+entdata               [variable]        6882/393216   ( 1.8%) 
+LDR ambient table     1088/65536        4352/262144   ( 1.7%) 
+HDR ambient table     1088/65536        4352/262144   ( 1.7%) 
+LDR leaf ambient      1088/65536       30464/1835008  ( 1.7%) 
+HDR leaf ambient      4093/65536      114604/1835008  ( 6.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12536    ( 0.0%) 
+pakfile               [variable]     3070365/0        ( 0.0%) 
+physics               [variable]      247029/4194304  ( 5.9%) 
+physics terrain       [variable]       44236/1048576  ( 4.2%) 
+
+Level flags = 7e
+
+Total triangle count: 7225
+Writing c:\steamlibrary\steamapps\common\counter-strike global offensive\sdk_content\maps\bhop_map\lake_house.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\steamlibrary\steamapps\common\counter-strike global offensive\sdk_content\maps\bhop_map\lake_house.bsp', but we don't own that location. Allowing.
+2 minutes, 56 seconds elapsed
