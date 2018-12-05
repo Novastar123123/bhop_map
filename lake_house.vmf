@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8056"
-	"mapversion" "163"
+	"mapversion" "165"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "163"
+	"mapversion" "165"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -38891,6 +38891,123 @@ world
 }
 entity
 {
+	"id" "56684"
+	"classname" "trigger_once"
+	"origin" "-7436 3408 484"
+	"spawnflags" "4097"
+	"StartDisabled" "0"
+	connections
+	{
+		"OnStartTouch" "sound_aphextwinPlaySound01"
+	}
+	solid
+	{
+		"id" "56685"
+		side
+		{
+			"id" "19611"
+			"plane" "(-7480 3376 528) (-7480 3440 528) (-7392 3440 528)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 16] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "19610"
+			"plane" "(-7480 3440 440) (-7480 3376 440) (-7392 3376 440)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 16] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "19609"
+			"plane" "(-7480 3376 440) (-7480 3440 440) (-7480 3440 528)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[0 1 0 -16] 0.25"
+			"vaxis" "[0 0 -1 32] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "19608"
+			"plane" "(-7392 3440 440) (-7392 3376 440) (-7392 3376 528)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[0 1 0 -16] 0.25"
+			"vaxis" "[0 0 -1 32] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "19607"
+			"plane" "(-7480 3440 440) (-7392 3440 440) (-7392 3440 528)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 32] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "19606"
+			"plane" "(-7392 3376 440) (-7480 3376 440) (-7480 3376 528)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 32] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 3000]"
+	}
+}
+entity
+{
+	"id" "56070"
+	"classname" "logic_timer"
+	"RefireTime" "219"
+	"spawnflags" "0"
+	"StartDisabled" "0"
+	"targetname" "logic_aphex"
+	"UseRandomTime" "0"
+	connections
+	{
+		"OnTimer" "sound_aphextwinPlaySound0-1"
+	}
+	"origin" "-7376.32 3336 456"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
 	"id" "44933"
 	"classname" "prop_physics"
 	"angles" "0 226.5 0"
@@ -38951,12 +39068,12 @@ entity
 	"lfomodvol" "0"
 	"lforate" "0"
 	"lfotype" "0"
-	"message" "nova/aphextwin_avril14th.wav"
+	"message" "nova/aphextwin_avril14th.mp3"
 	"pitch" "100"
 	"pitchstart" "100"
 	"preset" "0"
 	"radius" "700"
-	"spawnflags" "0"
+	"spawnflags" "48"
 	"spindown" "0"
 	"spinup" "0"
 	"targetname" "sound_aphextwin"
